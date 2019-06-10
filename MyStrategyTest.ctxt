@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyStrategyTest()
+comment0.text=\r\n\ Creates\ a\ new\ FirstStrategyTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testcallNextShot()
+comment2.text=\r\n\ tests\ call\ next\ shot\r\n
+comment3.params=
+comment3.target=void\ testcallNextShotFalse()
+comment3.text=\r\n\ tests\ call\ next\ shot\ when\ null\r\n
+comment4.params=
+comment4.target=void\ testgetName()
+comment4.text=\r\n\ tests\ getName()\r\n
+comment5.params=
+comment5.target=void\ testcanPlayDeviously()
+comment5.text=\r\n\ tests\ canPlayDeviously()\r\n
+comment6.params=
+comment6.target=void\ testplaceShips()
+comment6.text=\r\n\ tests\ placeShips()\r\n
+comment7.params=
+comment7.target=void\ testnewGame()
+comment7.text=\r\n\ tests\ new\ game\r\n
+numComments=8

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=currentGameState
+comment0.target=sofia.battleship.CallShotMove\ callNextShot(sofia.battleship.GameState)
+comment0.text=\r\n\ calls\ next\ shot\r\n\ @param\ currentGameState\ is\ the\ state\ of\ the\ game\r\n\ @return\ callshot\ returns\ where\ the\ shot\ is\ fired\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ @return\ name\ returns\ PID\r\n
+comment2.params=
+comment2.target=boolean\ canPlayDeviously()
+comment2.text=\r\n\ @return\ false\ for\ playing\ deviously\r\n
+comment3.params=currentGameState
+comment3.target=sofia.battleship.ShipPlacementMove\ placeShips(sofia.battleship.GameState)
+comment3.text=\r\n\ places\ ships\r\n\ @param\ currentGameState\ is\ game\ state\r\n\ @return\ placed\ for\ ship\ placement\r\n
+comment4.params=
+comment4.target=void\ newGame()
+comment4.text=\r\n\ starts\ newGame\r\n
+numComments=5
